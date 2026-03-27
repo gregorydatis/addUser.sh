@@ -12,7 +12,7 @@
     fin
 
     
-    Exécuter la commande de création de l'utilisateur
+ - 3   Exécuter la commande de création de l'utilisateur
 
     
     si la commande s'est terminée sans erreur ALORS
