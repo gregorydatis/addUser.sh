@@ -23,6 +23,6 @@
 
     Dans tous les cas, on continue avec le prochain utilisateur
 
-fin 
+fin pour
 
 fin du script
