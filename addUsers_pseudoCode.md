@@ -15,7 +15,7 @@
  - 3   Exécuter la commande de création de l'utilisateur
 
     
-    si la commande s'est terminée sans erreur ALORS
+    si la commande s'est terminée sans erreur alors
       Afficher : "L'utilisateur <nom> a été créé"
     sinon
       Afficher : "Erreur à la création de l'utilisateur <nom>"
