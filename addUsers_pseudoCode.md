@@ -1,4 +1,4 @@
- si le nombre d'arguments est égal à 0 alors
+ -* 1 si le nombre d'arguments est égal à 0 alors
     Afficher : "Il manque les noms d'utilisateurs en argument - Fin du script"
     Quitter le script avec le code d'erreur 1
   fin 
