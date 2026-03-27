@@ -6,9 +6,9 @@
    Pour chaque utilisateur dans la liste des arguments faire
 
  - 2    Vérification existence
-    si l'utilisateur existe déjà dans le système ALORS
+    si l'utilisateur existe déjà dans le système alors
       Afficher : "L'utilisateur <nom> existe déjà"
-      Passer au suivant  →  retour au début de la boucle
+      Passer au suivant  retour au début de la boucle
     fin
 
     
